@@ -1,0 +1,17 @@
+.guest-wrapper {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-transform: uppercase;
+}
+
+.guest-wrapper h1, p {
+    margin-bottom: 15px;
+}
+.guest-wrapper .guest-wrapper_img {
+    background-image: url(./assets/banner.jpg) ;
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 400px;
+    height: 300px;
+}

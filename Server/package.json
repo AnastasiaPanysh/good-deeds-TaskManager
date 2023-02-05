@@ -1,0 +1,30 @@
+{
+  "name": "good-deeds-manager",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "nodemon": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnastasiaPanysh/good-deeds-manager.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnastasiaPanysh/good-deeds-manager/issues"
+  },
+  "homepage": "https://github.com/AnastasiaPanysh/good-deeds-manager#readme",
+  "dependencies": {
+    "@types/node": "^18.11.18",
+    "bcrypt": "^5.1.0",
+    "bluebird": "^3.7.2",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mongoose": "^6.9.0",
+    "nodemon": "^2.0.20",
+    "ts-node": "^10.9.1",
+    "typescript": "^4.9.4"
+  }
+}
